@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about software development
-- 📫 How to reach me: Linkedin["https://www.linkedin.com/in/tung-vu-a2064866/"](url)
+- 📫 How to reach me: Linkedin[]("https://www.linkedin.com/in/tung-vu-a2064866/")
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I majored in Economics before working on Computer Science
 <!--
