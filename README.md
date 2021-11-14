@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on backend development, automotive software engineering
-- 🌱 I’m currently learning algorithm design and analysis, Linear programming and system design
-- 👯 I’m looking to collaborate on automotive software industry
+- 🌱 I’m currently learning algorithm design and analysis, linear programming and distributed system design
+- 👯 I’m looking to collaborate on motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about software development
 - 📫 How to reach me: Linkedin["https://www.linkedin.com/in/tung-vu-a2064866/"](url)
