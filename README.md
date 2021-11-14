@@ -7,7 +7,7 @@
 - 💬 Ask me about software development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tung-vu-a2064866/)
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I majored in Economics before working on Computer Science
+- ⚡ Fun fact: I am so handsome
 <!--
 **vutung3196/vutung3196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
