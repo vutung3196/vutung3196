@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on backend development, automotive software engineering
+- 🌱 I’m currently learning algorithm design and analysis
+- 👯 I’m looking to collaborate on automotive software industry
+- 🤔 I’m looking for help with C++
+- 💬 Ask me about software development
+- 📫 How to reach me: Linkedin["https://www.linkedin.com/in/tung-vu-a2064866/"](url)
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: I'm a gymmer
+
 <!--
 **vutung3196/vutung3196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
