@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on backend development, automotive software engineering
-- 🌱 I’m currently learning algorithm design and analysis, linear programming and distributed system design
+- 🌱 I’m currently learning algorithm design and analysis, linear programming, C++ and distributed system design
 - 👯 I’m looking to collaborate on motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about software development
