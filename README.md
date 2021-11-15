@@ -8,7 +8,7 @@
 - 💬 Ask me about software development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tung-vu-a2064866/)
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I am so handsome
+- ⚡ Fun fact: It takes me quite a while to realize that there nothing more important in life than a family
 <!--
 **vutung3196/vutung3196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
