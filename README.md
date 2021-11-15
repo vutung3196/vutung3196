@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 💬 My name is Tung Vu
 - 🔭 I’m currently working on backend development, automotive software engineering
 - 🌱 I’m currently learning algorithm design and analysis, linear programming, C++ and distributed system design
 - 👯 I’m looking to collaborate on motion planning and robotics side projects
