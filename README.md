@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 😃: My name is Tung Vu and I'm currently a computer science student
-- 🔭 I’m currently working on backend development, automotive software engineering
+- 🔭 I’m currently working on computer science research, backend development, and automotive software engineering
 - 🌱 I’m currently learning algorithm design and analysis, linear programming, C++ and distributed system design
 - 👯 I’m looking to collaborate on motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
-- 💬 Ask me about software development
+- 💬 Ask me about backend software development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tung-vu-a2064866/)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I know how to do moon-walk 🕺
