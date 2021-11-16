@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 😃: My name is Tung Vu and I'm currently a computer science student
-- 🔭 I’m currently working on computer science research, backend development, and automotive software engineering
+- 👨‍🎓: My name is Tung Vu and I'm currently a computer science student
+- 📖 I’m currently working on computer science research, backend development, and automotive software engineering
 - 🌱 I’m currently learning algorithm design and analysis, linear programming, C++ and distributed system design
 - 👯 I’m looking to collaborate on motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
