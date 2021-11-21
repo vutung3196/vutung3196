@@ -3,7 +3,7 @@
 - 👨‍🎓: My name is Tung Vu and I'm currently a computer science student
 - 📖 I’m currently working on computer science research, backend development, and automotive software engineering
 - 🌱 I’m currently learning algorithm design, linear programming, and C++
-- 👯 I’m looking to collaborate on motion planning and robotics side projects
+- 👯 I’m looking to collaborate on mobile application, motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about backend software development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tung-vu-a2064866/)
