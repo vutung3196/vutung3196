@@ -3,7 +3,7 @@
 - 👨‍🎓: My name is Tung Vu and I'm currently a software engineering student at FPT University and a software engineer at LG Vehicle Component Solutions Development Center Vietnam
 - 📖 I’m currently working on backend development, and automotive software engineering
 - 🌱 I’m currently learning Docker, Shell script, C++, algorithm design, and linear programming
-- 👯 I’m looking to collaborate on mobile application, motion planning and robotics side projects
+- 👯 I’m looking to collaborate on motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about backend software development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tung-vu-a2064866/)
