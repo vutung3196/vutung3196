@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍🎓: My name is Tung Vu and I'm currently finding what I wanna do in my life
-- 📖 I’m currently working on backend development, and automotive software engineering
+- 📖 I’m currently working on backend development
 - 🌱 I’m currently learning C++, algorithm design, and linear programming
 - 👯 I’m looking to collaborate on motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
