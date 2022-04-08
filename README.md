@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👨‍🎓: My name is Tung Vu and I'm a computer science student, software engineer, son and friend.
+- 👨‍🎓: My name is Tung Vu and I'm a computer science student, software engineer, son and a friend.
 - 📖 I’m currently working on backend development
-- 🌱 I’m currently learning C++, algorithm design, and linear programming
+- 🌱 I’m currently learning C++, algorithm design, and machine learning basics
 - 👯 I’m looking to collaborate on motion planning and robotics side projects
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about backend software development
