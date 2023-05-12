@@ -3,7 +3,7 @@
 - 👨‍🎓: My name is Tung Vu and I'm a computer science student, software engineer, son and a friend.
 - 📖 I’m currently working on backend development.
 - 🌱 I’m currently learning distributed system design.
-- 👯 I’m looking to collaborate on motion planning and robotics side projects
+<!-- - 👯 I’m looking to collaborate on motion planning and robotics side projects -->
 - 🤔 I’m looking for help with Go
 - 💬 Ask me about backend software development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tung-vu-a2064866/)
